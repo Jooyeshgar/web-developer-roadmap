@@ -56,12 +56,15 @@
 
 آموزش غیر ایگان :
 * [PHP فرادرس](https://faradars.org/courses/fvrphp101-php-programming)
-### ۵ - MVC 
+
+### ۵ - Relational database: MySQL
+* [آموزش PHP و MySQL](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-php-%D9%88-mysql-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1-mk1074/)
+* 
+### 6 - MVC 
 متاسفانه آموزش فارسی در این مورد پیدا نکردیم اما با تسلط به زبان PHP مطمئنیم آموزش زیر براتون قابل فهم خواهد بود.
 
 * [OOP PHP](https://youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV )
-### ۶ - Relational database: MySQL
-* [آموزش PHP و MySQL](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-php-%D9%88-mysql-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1-mk1074/)
+
 
 
 # مباحث تکمیلی
